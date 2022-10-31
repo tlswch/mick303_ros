@@ -1,0 +1,132 @@
+\ProvidesPackage{preamble}[2020/04/05]
+
+% indentering
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+
+%% table of contentdjup
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
+%% kommentera sektioner, begin -- end
+\RequirePackage{comment} 
+
+%% provides emulation of pdfTeX primitives for LuaTeX v0.85 needed by attachfile idk lmao
+\RequirePackage{luatex85}
+
+%% Inbäddade filer
+\RequirePackage{attachfile}
+\attachfilesetup{color=0 0 0.9}
+
+%% Indexering från noll
+\makeatletter
+\def\@arabic#1{\number\numexpr#1-1\relax}
+\renewcommand*{\theatfi@tmp}{\the\value{atfi@tmp}} % Workaround för att attachfile ska fungera trots omdefinieringen av arabic
+\makeatother
+
+%% Förfinar typografin, bland annat med marginalkerning.
+\RequirePackage{microtype}
+
+\RequirePackage{fontspec}
+\RequirePackage{polyglossia}
+\setdefaultlanguage{swedish}
+
+\RequirePackage{datetime}
+\renewcommand{\dateseparator}{-}
+
+\RequirePackage[inline]{enumitem}
+
+%% Definiera färgnamn
+\RequirePackage[hyperref, table, dvipsnames, svgnames, x11names]{xcolor}
+
+%% Gör att mellanslag i bildfilnamn fungerar.
+\RequirePackage[space]{grffile}
+
+%% Matematik
+\RequirePackage[intlimits]{mathtools}
+\RequirePackage{amssymb}
+%\RequirePackage{amsfonts}
+\RequirePackage{mathrsfs}
+% \RequirePackage{unicode-math} %% inaktiverad för den ger fula symboler
+
+%% Matematiska genvägar
+% Mängder och Vektorrum
+\newcommand{\Binary}{\mathbb{B}}
+\newcommand{\Natural}{\mathbb{N}}
+\newcommand{\Integer}{\mathbb{Z}}
+\newcommand{\Rational}{\mathbb{Q}}
+\newcommand{\Real}{\mathbb{R}}
+\newcommand{\Complex}{\mathbb{C}}
+\newcommand{\Hilbert}{\mathcal{H}}
+\newcommand{\Galois}{\text{GF}}
+% Analytisk mekanik
+\newcommand{\Hamilton}{\mathscr{H}}
+\newcommand{\Lagrange}{\mathscr{L}}
+
+%% Gör hänvisningar inom dokumentet till länkar. Generera disposition.
+\RequirePackage{hyperref}
+
+%% Enheter
+\RequirePackage{siunitx}
+\sisetup{
+  output-decimal-marker = {,},
+  per-mode = symbol-or-fraction,
+  inter-unit-product = \ensuremath{\cdot},
+  exponent-product = \ensuremath{\cdot}
+}
+
+%% ta bort linje efter epigraf
+\setlength{\epigraphrule}{0pt}
+\setlength{\epigraphwidth}{0.8\textwidth}
+
+%% referenser
+\RequirePackage[
+  backend=biber,
+  style=alphabetic, % numeric om man inte vill ha 
+  sorting=none % none sorterar i ordningen de citerades
+]{biblatex}
+
+%% ändrar fotnötter
+\RequirePackage[perpage]{footmisc}
+
+\makeatletter
+\newcommand*{\myfnsymbolsingle}[1]{%
+  \ensuremath{%
+    \ifcase#1% 0
+    \or % 1
+      \dagger%   
+    \or % 2
+      \sharp
+    \or % 3  
+      \flat
+    \or % 4   
+      \star
+    \or % 5
+      \ddagger
+    \or % 6
+      \wp
+    \or % 7
+      \top
+    \or % 8
+      \bot
+    \else % >= 9
+      \@ctrerr  
+    \fi
+  }%   
+}   
+\makeatother
+
+\newcommand*{\myfnsymbol}[1]{%
+  \myfnsymbolsingle{\value{#1}}%
+}
+
+% remove upper boundary by multiplying the symbols if needed
+\RequirePackage{alphalph}
+\newalphalph{\myfnsymbolmult}[mult]{\myfnsymbolsingle}{}
+
+% använder tabellen ovan
+\renewcommand*{\thefootnote}{%
+  \myfnsymbolmult{\value{footnote}}%
+}
+
+\endinput % måste stå i avslutning av paket

@@ -1,0 +1,118 @@
+% Latex-mall, gafflad från Bromskloss
+
+%% =============================================================================
+%% === PREAMBLE ================================================================
+%% =============================================================================
+
+% Dokumentklass
+\documentclass[a4paper, article, oneside, leqno]{memoir}
+
+% Ladda sty-fil preamble.sty
+\usepackage{preamble}
+
+% titel, författare, datum
+\title{
+  huvudtitel \\ % titel
+  \large en undertitel% undertitel
+}
+\author{Anders}
+\date{\today\ (\currenttime)}
+
+\hypersetup{
+  unicode,
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor}
+}
+
+% Lägg till fil för referenser
+% \addbibresource{referenser.bib}
+
+\begin{document}
+
+% Romerska siffror i förbladen
+\pagenumbering{roman}
+
+% Titelsida
+\maketitle
+
+% Sammanfattning
+\begin{abstract}
+  Häri beskrivs...
+\end{abstract}
+
+\clearpage
+
+\tableofcontents
+
+%% =============================================================================
+%% === END PREAMBLE ============================================================
+%% =============================================================================
+
+\clearpage
+
+% Siffror för artikeln själv
+\pagenumbering{arabic}
+
+%% =============================================================================
+%% === BODY ====================================================================
+%% =============================================================================
+
+\chapter{Mängder}
+Den fundamentala byggstenen är \emph{mängden}. En mängd kan vara tom eller innehålla element, som även de är mängder, sådana att detsamma gäller för dem. Den mängd som inte innehåller några element kallas för den \emph{tomma mängden} och är unik. Hädanefter är varje objekt en mängd, vilket inkluderar, men inte begränsas till, tal, vektorer, operatorer, funktioner och tensorer.
+
+En mängd, $M$ med element $a$, $b$, $c$ kan skrivas som $M = \{a, b, c\}$, medan en mängd, $N$, med elementen $a$, $c$, $M$ och $d$, kan skrivas som $N = \{a, c, M, d\} = \{a, c, \{a, b, c\}, d\}$ \&sv. Den tomma mängden skrivs med denna notation $\{\}$ men andra symboler används, som $\varnothing$.
+
+%% =============================================================================
+%% === END BODY ================================================================
+%% =============================================================================
+
+\clearpage
+
+%% =============================================================================
+%% === APPENDICES ==============================================================
+%% =============================================================================
+
+\appendix
+
+\chapter{Notation och definitioner} \label{sec:notation}
+Notationen som används skiljer sig en del från standardnotation inom ingenjörsvärlden och drar mer åt det hållet som används inom teoretisk såväl som matetmatisk fysik. Notationen följer \cite{anders_mat_intro} som läsaren bör konsumerat vid det här laget.
+
+$\Binary$ används för att beteckna mängden $\{0, 1\}$ som är mycket vanlig inom digital elektronik.
+
+$\oplus$ används för den exklusiva eller-operatorn, som definieras bitvis enligt
+
+\begin{align}\begin{split}
+    \oplus : \Binary \times \Binary &\to \Binary \\
+    (\alpha, \beta) &\mapsto \alpha \oplus \beta \\
+    &= |\alpha - \beta|
+\end{split}\end{align}
+
+Och från den definitionen för längre bitsträngar
+
+\begin{align}\begin{split}
+    \oplus : \Binary^d \times \Binary^d &\to \Binary^d \\
+    (\alpha_\mu, \beta_\mu) &\mapsto \alpha_\mu \oplus \beta_\mu \\
+    &= |\alpha_\mu - \beta_\mu|_\mu
+\end{split}\end{align}
+
+Resultatet blir alltså en bitsträng i vilken varje komponent är resultaten av en $\oplus$ mellan motsvarande komponenter i operanderna.
+
+% lägg in kod, include kan användas men den är högnivå
+%\input{../slumpgenerator.tex}
+
+%% =============================================================================
+%% === END APPENDICES ==========================================================
+%% =============================================================================
+
+%% =============================================================================
+%% === REFERENSER ==============================================================
+%% =============================================================================
+
+% skriv ut referenserna
+%\printbibliography[title=Referenser]
+
+%% =============================================================================
+%% === END REFERENSER ==========================================================
+%% =============================================================================
+
+\end{document}
