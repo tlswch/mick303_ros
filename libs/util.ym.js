@@ -1,6 +1,6 @@
-import 'assets://js/lib/uri.min.js'
-import cheerio from 'assets://js/lib/cheerio.min.js';
-import 'assets://js/lib/crypto-js.js'
+import 'https://agit.ai/top752/ros/raw/branch/master/libs/uri.min.js'
+import cheerio from 'https://agit.ai/top752/ros/raw/branch/master/libs/cheerio.min.js';
+import 'https://agit.ai/top752/ros/raw/branch/master/libs/crypto-js.js'
 
 var charStr = 'abacdefghjklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ0123456789';
 export function randIndex(min, max, i) {
