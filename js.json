@@ -6,10 +6,10 @@
     "sites":[
     {"key":"csp_木子看剧","name":"🏠资源不定时更新","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":0},
     {"key": "T4","name": "🔥豆瓣热搜 T4","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Fantuan","name":"🐌小懒虫影视┃新站","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_Fantuan","name":"🐌小懒虫影视┃新站","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/top752/ros/raw/branch/master/paper/Nmys.json"},
     {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_AppTT","name":"🐰兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_AppTT","name":"🐰兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysgc","name":"🏭工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kunyu77","name":"🌤七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_IKan","name":"❤️爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
