@@ -6,7 +6,7 @@
     "sites":[
     {"key":"csp_木子看剧","name":"🏠资源不定时更新","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":0},
     {"key": "T4","name": "🔥豆瓣热搜 T4","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Fantuan","name":"🐌小懒虫影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Fantuan","name":"🐌懒虫","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/top752/ros/raw/branch/master/paper/Nmys.json"},
     {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AppTT","name":"🐰兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -253,7 +253,10 @@
     {"key" : "海玉影视","name":"海玉影视┃采","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
     
     {"key" : "py","name":"Py资源⬇(打开储存权限)⬇","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":0},
+    {"key" : "py_cokemv","name": "Cokemv┃py","type": 3,"api": "py_cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/top752/ros/raw/branch/master/py/py_cokemv.py"},
+    {"key" : "py_libvio","name": "LIbvio┃py","type": 3,"api": "py_libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/top752/ros/raw/branch/master/py/py_libvio.py"},
     {"key" : "py_voflix","name" : "Voflix┃py","type" : 3,"api" : "py_voflix","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/top752/ros/raw/branch/master/py/py_voflix.py"},
+    {"key" : "py_bilimd","name": "B站影视┃py","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/top752/ros/raw/branch/master/py/py_bilimd.py"},
     {"key" : "py_kunyu77","name" : "酷云七七┃py","type" : 3,"api" : "py_kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/top752/ros/raw/branch/master/py/py_kunyu77.py"},
     {"key" : "py_lezhu","name" : "乐猪影视┃py","type" : 3,"api" : "py_lezhu","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/top752/ros/raw/branch/master/py/py_lezhu.py"},
     {"key" : "py_3qu","name" : "快播影视┃py","type" : 3,"api" : "py_3qu","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/top752/ros/raw/branch/master/py/py_3qu.py"},
