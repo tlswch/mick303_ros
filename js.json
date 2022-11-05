@@ -1,5 +1,5 @@
 {
-    "spider":"https://agit.ai/top752/ros/raw/branch/master/jar/top.jar;md5;3b602b7e1219b80abc73314bb1ce9cf1",  
+    "spider":"https://agit.ai/top752/ros/raw/branch/master/jar/top.jar;md5;c4da53a5c7f9ac845d2167d5fa6ca939",  
     "wallpaper": "https://epg.112114.xyz/bingimg",
     "lives": [{"group": "redirect","channels": [{"name": 
     "live","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/top752/ros/raw/branch/master/txt/live.txt"]}]}],
