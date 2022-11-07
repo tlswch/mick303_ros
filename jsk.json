@@ -1,5 +1,7 @@
 {
 "spider": "./jar/w.jar",
+"wallpaper": "http://刚刚.live/图",
+"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
 "sites": [
     {"key": "drpy_js_豆瓣","name": "豆瓣热搜┃JS","type": 3,"api": "./libs/drpy.ym.js","ext": "./js/豆瓣.js"},
     {"key": "drpy_js_360影视","name": "360┃JS","type": 3,"api": "./libs/drpy.ym.js","ext": "./js/360影视.js"},
@@ -163,8 +165,7 @@
     {"key": "drpy_js_异世界动漫","name": "异世界动漫┃JS","type": 3,"api": "./libs/drpy.ym.js","ext": "./js/异世界动漫.js"},
     {"key": "push_agent","name": "🎯推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://刚刚.live/json/alitoken.json"}
 ],
-    "lives": [{"group": "redirect","channels": [{"name": "live","urls": 
-    ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
+    
     "rules": [
     {"host": "www.djuu.com","rule": ["mp4.djuu.com","m4a"]},
     {"host": "www.sharenice.net","rule":["douyin.com","/play/"]},
@@ -248,6 +249,6 @@
     "s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top",
     "ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top",
     "qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"
-],
-"wallpaper": "http://刚刚.live/图"
+]
+
 }
