@@ -22,7 +22,7 @@
 {"key":"Gitcafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
 {"key":"push_agent","name":"📨推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
 {"key": "drpy_js","name": "资源","type": 3, "api":"https://agit.ai/top752/ros/raw/branch/master/libs/drpy.ym.js","ext": "https://agit.ai/top752/ros/raw/branch/master/js/Mlgm.js"},
-{"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"./ext/Banana.txt"},
+{"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/Banana.txt"},
 {"key":"csp_Banana2","name":"Banana2","type":3,"api":"csp_Banana2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/Banana.txt"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/akyy.json"},
 {"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdcm.json"},
