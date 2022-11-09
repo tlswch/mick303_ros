@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/top.jar;md5;a1577290939f277009c7badf88956423",  
+    "spider":"./jar/top.jar;md5;d8b7f7972ed65d9f20bcf8264c7579b7",  
     "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
     "lives": [{"group": "redirect","channels": [{"name": 
     "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
@@ -29,7 +29,7 @@
     {"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wmkk","name":"🌹完美","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Tkys","name": "✨天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
-    //{"key":"csp_Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
@@ -51,7 +51,7 @@
     {"key":"Gitcafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
     {"key":"Upyunso","name":"🌦云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
     {"key":"FindZY","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
-    //{"key":"AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
+    {"key":"AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
     {"key":"csp_Yiso","name":"🎯易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
     {"key":"push_agent","name":"📨推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
     
