@@ -211,11 +211,13 @@
     {"key":"csp_北川影视","name":"️北川影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"https://www.bcwzg.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/\",\"筛选\":\"1\"}"},
     {"key":"csp_电视直播","name":"电视直播┃xBPQ",	"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},
     
-    {"key":"csp_xBiu资源","name":"=====⬇===xBiu资源===⬇=====","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":0},
+    {"key": "csp_xBiu资源","name":"=====⬇===xBiu资源===⬇=====","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":0},
     {"key": "csp_xb_lezys","name":"乐猪影视┃XB","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":{"homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1}}},
     {"key": "csp_xb_Xxys","name": "小小影视┃XB","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cqdtys.com/vodshow/{cateId}-----------.html"},
-    {"key": "csp_口袋影院","name":"口袋影院┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"},
-    {"key": "csp_金眼影视","name":"金眼影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
+    {"key": "csp_biubiu_口袋影院","name":"口袋影院┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"},
+    {"key": "csp_biubiu_金眼影视","name":"金眼影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
+    {"key": "csp_biubiu_黑狐影视","name":"黑狐影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/黑狐影视(ns).json"},
+    {"key": "csp_biubiu_YYDS影院","name":"YYDS影院┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/YYDS影院.json"},
     
     {"key" : "csp_ass资源","name":"=====⬇===官采资源===⬇=====","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":0},
     {"key" : "猫咪资源","name":"小猫咪┃采" ,"type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧", "日韩剧", "港台剧", "欧美剧", "综艺", "动漫", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "剧情片"]},
