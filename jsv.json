@@ -1,5 +1,5 @@
 {
-  "spider":"https://agit.ai/top752/ros/raw/branch/master/jar/cs.jar",  
+  "spider":"./jar/cs.jar",  
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [{"group": "redirect","channels": [{"name": 
   "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
@@ -8,7 +8,6 @@
 {"key":"360_spider","name":"💫360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🛣低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "Zxzj","name": "🍁在线","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_CZSPP","name":"🚬厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xxys","name":"🐻小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -19,9 +18,9 @@
 {"key":"FindZY","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
 {"key":"Gitcafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
 {"key":"push_agent","name":"📨推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
-{"key": "drpy_js","name": "资源","type": 3, "api":"https://agit.ai/top752/ros/raw/branch/master/libs/drpy.ym.js","ext": "https://agit.ai/top752/ros/raw/branch/master/js/Mlgm.js"},
-{"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/88099046/houxian/raw/branch/master/ext/Banana.txt"},
-{"key":"csp_Banana2","name":"Banana2","type":3,"api":"csp_Banana2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/88099046/houxian/raw/branch/master/ext/Banana.txt"},
+{"key": "drpy_js","name": "资源","type": 3, "api":"./libs/drpy.ym.js","ext": "./js/Mlgm.js"},
+{"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/Banana.txt"},
+{"key":"csp_Banana2","name":"Banana2","type":3,"api":"csp_Banana2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/Banana.txt"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/akyy.json"},
 {"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdcm.json"},
 {"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdtv.json"},
