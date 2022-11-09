@@ -2,7 +2,7 @@
   "spider":"https://agit.ai/top752/ros/raw/branch/master/jar/v.jar",  
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [{"group": "redirect","channels": [{"name": 
-  "live","urls": ["proxy://do=live&type=txt&ext=https://gitee.com/lh2513/ros/raw/master/txt/live.txt"]}]}],
+  "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
 
 "sites": [
 {"key": "T4a","name": "🍁T4聚合","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
