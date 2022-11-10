@@ -48,7 +48,7 @@
 {"key":"csp_Yiso","name":"🎯易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
 {"key":"push_agent","name":"📨推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
 {"key": "drpy_js","name": "瞄了个咪","type": 3, "api":"./libs/drpy.ym.js","ext": "./js/Mlgm.js"},
-
+{"key":"csp_Xiangjiao","name":"*🔞new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/my_18spider.jar"},
 {"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"./SITV/Banana.txt"},
 {"key": "csp_XYQHiker_猫咪","name":"猫咪","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./SITV/xmm.json"},
 {"key": "drpy_js_养端","name": "养端","type": 3,"api": "./libs/drpy.ym.js","ext": "./js/yd.js"},
