@@ -24,6 +24,7 @@
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/xjsp.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/akyy.json"},
 {"key":"哥哥妹妹","name":"哥妹资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0,"filterable":0},
+ {"key":"csp_biubiu_黄仓库","name":"影视仓库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/hck.json"},
 //{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdcm.json"},
 //{"key":"csp_biubiu_麻豆AV","name":"麻豆AV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdtv.json"},
 //{"key":"csp_biubiu_四虎影院","name":"四虎影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/shyy.json"},
