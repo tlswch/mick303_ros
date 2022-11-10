@@ -21,6 +21,7 @@
 {"key": "drpy_js","name": "资源","type": 3, "api":"./libs/drpy.ym.js","ext": "./js/Mlgm.js"},
 {"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/Banana.txt"},
 {"key":"csp_Banana2","name":"Banana2","type":3,"api":"csp_Banana2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/Banana.txt"},
+{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/xjsp.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/akyy.json"},
 {"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdcm.json"},
 {"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/mdtv.json"},
