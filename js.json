@@ -174,6 +174,8 @@
     {"key":"csp_在线之家","name":"️在线之家┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/zxzj.json"},
     {"key":"csp_影视工厂","name":"影视工厂┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.json"},
     {"key":"csp_厂长资源","name":"厂长资源┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"}, 
+    {"key":"csp_凌云影视","name":"凌云影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/凌云影视.json"},
+    {"key":"csp_诺讯影视","name":"诺讯影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/诺讯影视.json"}, 
     {"key":"csp_电影先生","name":"电影先生┃xBPQ","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xBPQ/filmMr.json"}, 
     {"key":"csp_看戏影视","name":"看戏影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/%E5%A5%BD%E7%9C%8B%E5%BD%B1%E8%A7%86.json"},
     {"key":"csp_爱酷影视","name":"爱酷影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/%E7%88%B1%E9%85%B7%E5%BD%B1%E8%A7%86.json"},
