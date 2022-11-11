@@ -68,6 +68,7 @@
     {"key": "csp_蓝光影院","name":"蓝光影院┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/lgyy.json"},
     {"key": "csp_万能影院","name":"万能影院┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/wnvob.json"},
     {"key": "csp_六度影视","name":"六度影视┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/6d.json"},
+    {"key": "csp_喵喵电影","name": "喵喵电影┃XPF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/mmdy.json"},
     {"key": "csp_奇优影院","name": "奇优影院┃XPF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/qiyouyy.json"},
     {"key": "csp_骚火电影","name":"骚火电影┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
 
