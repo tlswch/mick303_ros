@@ -1,8 +1,9 @@
 {
     "spider":"./jar/top.jar;md5;d8b7f7972ed65d9f20bcf8264c7579b7",  
     "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-    "lives": [{"group": "redirect","channels": [{"name": 
-    "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
+    "lives": [{"name": "直播","type": 0,"url": "./txt/live.txt",
+    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+    
     "sites":[
     {"key":"csp_木子看剧","name":"🏠资源不定时更新","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":0},
     {"key": "T4","name": "🔥豆瓣热搜 T4","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
