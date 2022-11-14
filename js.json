@@ -5,7 +5,6 @@
     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
     
     "sites":[
-    {"key":"csp_木子看剧","name":"🏠资源不定时更新","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":0},
     {"key": "T4","name": "🔥豆瓣热搜 T4","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Fantuan","name":"🐌懒虫","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/Nmys.json"},
