@@ -32,7 +32,7 @@
     {"key":"Voflix","name":"📦Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_SPAuete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_剧荒","name":"👿剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"3EDY","name":"🌴3E飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":0},
