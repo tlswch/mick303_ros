@@ -237,9 +237,8 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 贵州卫视,http://60.10.167.88:808/hls/49/index.m3u8 
 
 南方卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-南方卫视,http://gxfrg007.8800.org:8282/tsfile/live/1080_1.m3u8
 南方卫视,http://wtv.weetai.cn/iptv/2022/tyzb38.php?id=nfws
-南方卫视,http://9.zhxinda.xyz/gdtv.php?pk=1197
+南方卫视,http://gxfrg007.8800.org:8282/tsfile/live/1080_1.m3u8
 
 澳门卫视,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 澳门卫视,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
