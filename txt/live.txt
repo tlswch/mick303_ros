@@ -1653,7 +1653,9 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
 春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
 跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
-体育,http://39.134.175.225:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226287/index.m3u8?fmt=ts2hls
+音乐,https://bp-caster.bestv.com.cn/894/3/video.m3u8
+天籁,https://bp-caster.bestv.com.cn/731/3/video.m3u8
+爱乐,https://bp-caster.bestv.com.cn/930/1/video.m3u8
 
 🎬埋堆堆,#genre#
 欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
@@ -2043,6 +2045,10 @@ GDG相声,http://txtest-xp2p.p2p.huya.com/src//64310431-64310431-276211197936664
 福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
 
 🎸MTV流行,#genre#
+怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 杨丽珍_虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
 杨丽珍_情为何物,https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 杨丽珍_想念你,https://vd2.bdstatic.com/mda-iggwqt9cezpyirjn/sc/mda-iggwqt9cezpyirjn.mp4
