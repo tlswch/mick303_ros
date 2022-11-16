@@ -54,8 +54,6 @@
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./SITV/xjsp.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./SITV/akyy.json"},
 {"key":"csp_biubiu_仓库","name":"影视仓库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./SITV/hck.json"},
-{"key":"csp_xBPQ_精东影业","name":"精东影业","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "./SITV/jdyyxxx.json"},
-{"key": "csp_xf_18t","name": "️骚虎视频","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./SITV/18t.json"},
 {"key":"csp_xBPQ_性欲轮回","name":"性欲轮回A","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "./SITV/xylh.json"},
 {"key":"csp_xBPQ_性欲分类","name":"性欲轮回B","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "./SITV/xylhf.json"},
 //{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./SITV/mdcm.json"},
