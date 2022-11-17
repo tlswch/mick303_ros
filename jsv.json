@@ -1,8 +1,9 @@
 {"spider":"./jar/cs.jar","wallpaper": "https://epg.112114.xyz/bingimg","lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
 
 "sites": [
-{"key": "T4","name": "🔥豆瓣热搜 T4","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Fantuan","name":"🐌懒虫","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_BBB","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./paper/BILI.json"},
+{"key": "演唱会","name": "🎸演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./paper/YCH.json"},
+{"key":"csp_Fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/Nmys.json"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -34,8 +35,6 @@
 {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"🐧腾讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🥭芒果","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_BBB","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./paper/BILI.json"},
-{"key": "演唱会","name": "🎸演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./paper/YCH.json"},
 {"key":"csp_Yj1211","name":"📸直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Alist","name":"🗂Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"./paper/Alist.json"},
 {"key":"Gitcafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/al.txt"},
