@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/top.jar;md5;5fa6cb837a67432d9845b278968df392",  
+    "spider":"./jar/top.jar;md5;9c60d8aea63568391c46fa98820ea6d3",  
     "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
     "lives": [{"name": "直播","type": 0,"url": "./txt/live.txt",
     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
@@ -28,6 +28,7 @@
     {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Tkys","name": "✨天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_sp293","name":"🔥293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_VOFLIX","name":"📦VOFLIX","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/VOFLIX.json"},
     {"key":"csp_FREEOK","name":"️️🎊FREEOK","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xBPQ/FreeOK.json"},
     {"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/LIBVIO.json"},
@@ -37,7 +38,7 @@
     {"key":"csp_SPAuete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_剧荒","name":"👿剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_SP293","name":"🌴293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"csp_EEEDY","name":"🌴3EDY","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"mjxq_spider","name":"🌏美剧","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dm84","name":"🌸动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"360_spider","name":"💫360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
