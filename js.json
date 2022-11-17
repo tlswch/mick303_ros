@@ -5,7 +5,7 @@
     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
     
     "sites":[
-    {"key": "js_db","name": "🔥豆瓣热搜","type":3,"api":"./libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/db.js"}
+    {"key": "js_db","name": "🔥豆瓣热搜","type":3,"api":"./libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/db.js"},
     {"key":"csp_Fantuan","name":"🐌懒虫","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/Nmys.json"},
     {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
