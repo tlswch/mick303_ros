@@ -73,7 +73,7 @@
     {"key": "csp_喵喵电影","name": "喵喵电影┃XPF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/mmdy.json"},
     {"key": "csp_奇优影院","name": "奇优影院┃XPF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/qiyouyy.json"},
     {"key": "csp_骚火电影","name":"骚火电影┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
-    {"key":"csp_xpath_qiumi","name":"Jrs球迷(注意直播时间)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "/paper/qiumi.json"},
+    {"key":"csp_xpath_qiumi","name":"Jrs球迷(注意直播时间)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "./paper/qiumi.json"},
 
     {"key":"csp_JS资源","name":"=⬇=JS资源=👉=","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":0},   
     {"key": "drpy_js_360影视","name": "360┃JS","type": 3,"api": "./libs/drpy.ym.js","ext": "./js/360影视.js"},
