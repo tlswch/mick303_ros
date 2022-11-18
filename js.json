@@ -74,7 +74,6 @@
     {"key": "csp_骚火电影","name":"骚火电影┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
     {"key":"csp_xpath_qiumi","name":"Jrs球迷(注意直播时间)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "./paper/qiumi.json"},
 
-    {"key": "csp_xb_lezys","name":"乐猪影视┃XB","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":{"homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1}}},
     {"key": "csp_xb_Xxys","name": "小小影视┃XB","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cqdtys.com/vodshow/{cateId}-----------.html"},
     {"key": "csp_xb_juhe","name": "聚合影视┃XB", "type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://fositv.com/vod____show/{cateId}-{area}-{by}------{catePg}---{year}.html"},
     {"key": "csp_免费影视","name": "免费影视┃XB","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://qqmzpt.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
@@ -105,7 +104,7 @@
     {"key":"csp_真不卡","name":"️真不卡┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/zbkys.json"},
     {"key":"csp_在线之家","name":"️在线之家┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/zxzj.json"},
     {"key":"csp_影视工厂","name":"影视工厂┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.json"},
-    {"key": "csp_xb_lezys","name":"乐猪影视┃xBPQ","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/%e4%b9%90%e7%8c%aaTV.json"},
+    {"key":"csp_乐猪影视","name":"乐猪影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/%e4%b9%90%e7%8c%aaTV.json"},
     {"key":"csp_厂长资源","name":"厂长资源┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"}, 
     {"key":"csp_凌云影视","name":"凌云影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/凌云影视.json"},
     {"key":"csp_诺讯影视","name":"诺讯影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/诺讯影视.json"}, 
