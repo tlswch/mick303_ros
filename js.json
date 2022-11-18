@@ -105,6 +105,7 @@
     {"key":"csp_真不卡","name":"️真不卡┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/zbkys.json"},
     {"key":"csp_在线之家","name":"️在线之家┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/zxzj.json"},
     {"key":"csp_影视工厂","name":"影视工厂┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.json"},
+    {"key": "csp_xb_lezys","name":"乐猪影视┃xBPQ","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/%e4%b9%90%e7%8c%aaTV.json"},
     {"key":"csp_厂长资源","name":"厂长资源┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"}, 
     {"key":"csp_凌云影视","name":"凌云影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/凌云影视.json"},
     {"key":"csp_诺讯影视","name":"诺讯影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/诺讯影视.json"}, 
