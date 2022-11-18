@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/top.jar;md5;9c60d8aea63568391c46fa98820ea6d3",  
+    "spider":"./jar/top.jar;md5;735909067421aa24f2f6f09ca925f677",  
     "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
     "lives": [{"name": "直播","type": 0,"url": "./txt/live.txt",
     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
@@ -31,9 +31,9 @@
     {"key":"csp_sp293","name":"🔥293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_VOFLIX","name":"📦VOFLIX","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/VOFLIX.json"},
     {"key":"csp_FREEOK","name":"️️🎊FREEOK","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xBPQ/FreeOK.json"},
-    {"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/LIBVIO.json"},
+    //{"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/LIBVIO.json"},
     //{"key":"Voflix","name":"📦Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-    //{"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SPAuete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
