@@ -29,7 +29,7 @@
     {"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Tkys","name": "✨天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_VOFLIX","name":"📦VOFLIX","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/VOFLIX.json"},
-    {"key":"csp_FREEOK","name":"️️🎊FREEOK","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xBPQ/FreeOK.json"},
+    {"key":"csp_FREEOK","name":"️️🎊FREEOK","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "./xBPQ/FreeOK.json"},
     //{"key":"Voflix","name":"📦Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LibVio","name":"🍒LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🎀Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
