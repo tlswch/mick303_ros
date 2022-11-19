@@ -1,5 +1,5 @@
 {
-    "spider":"./jar/top.jar;md5;735909067421aa24f2f6f09ca925f677",  
+    "spider":"./jar/top.jar;md5;fa9af78ca88fc611d058a4069f891833",  
     "wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
     "lives": [{"name": "直播","type": 0,"url": "./txt/live.txt",
     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
