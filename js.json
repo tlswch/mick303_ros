@@ -98,6 +98,7 @@
     {"key":"csp_吼吼", "name":"吼吼TV┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/吼吼.json"},
     {"key":"csp_宝仙HD","name":"宝仙HD️┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/宝仙HD.json"},
     {"key":"csp_剧白白","name":"剧白白┃xBPQ","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/剧白白.json"},
+    {"key": "csp_DDG","name":"达达龟┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/达达龟.json"},
     {"key":"csp_热播酷","name":"热播酷┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/热播库.json"},
     {"key":"csp_小猫咪","name":"小猫咪┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/小猫咪.json"},
     {"key":"csp_莫扎兔","name":"莫扎兔┃xBPQ","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/莫扎兔.json"},
