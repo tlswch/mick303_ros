@@ -86,6 +86,7 @@
     {"key":"csp_NikeTV","name":"NikeTV┃xBPQ","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/NikeTV.json"},
     {"key":"csp_app影院","name":"app影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/APP影院.json"},
     {"key":"csp_UM影院","name":"UM影院┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/UM影院.json"},
+    {"key":"csp_23影视","name":"23影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/23影视.json"},
     {"key":"csp_52看剧","name":"52看剧┃xBPQ","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/52看剧.json"},
     {"key":"csp_555电影","name":"555电影┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/555电影.json"},
     {"key":"csp_188影视","name":"188影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/188影视.json"},
