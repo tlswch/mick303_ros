@@ -68,6 +68,7 @@
     {"key":"csp_xp厂长资源","name":"厂长资源┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/厂长资源.json"},
     {"key":"csp_xp在线之家","name":"在线之家┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/在线之家.json"},
     {"key": "csp_万能影院","name":"万能影院┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/万能影院.json"},
+    {"key":"csp_xp钉子电影","name":"钉子电影┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/钉子电影.json"},
     {"key": "csp_六度影视","name":"六度影视┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/六度.json"},
     {"key": "csp喵喵电影","name": "喵喵电影┃XPF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/喵喵电影.json"},
     {"key": "csp_奇优影院","name": "奇优影院┃XPF","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/奇优影院.json"},
