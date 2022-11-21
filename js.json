@@ -82,6 +82,7 @@
     {"key":"csp_xpath_qiumi","name":"Jrs球迷(注意直播时间)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable":0,"ext": "./paper/Jrs球迷.json"},
 
     {"key": "csp_QXBiubiu_600影视","name":"600影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/600影视.json"},
+    {"key": "csp_biubiu_xBVOFLIX","name":"VOFLIX┃XB","type":3,"api":"csp_XBiubiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/voflix.json"},
     {"key": "csp_biubiu_口袋影院","name":"口袋影院┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/口袋影院.json"},
     {"key": "csp_biubiu_金眼影视","name":"金眼影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/金眼影视.json"},
     {"key": "csp_biubiu_黑狐影视","name":"黑狐影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/黑狐影视.json"},
