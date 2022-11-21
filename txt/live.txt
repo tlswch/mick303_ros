@@ -20,7 +20,8 @@ CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=cctv3
 CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 
 CCTV4,http://39.135.6.132:6610/000000001000/5000000005000030093/1.m3u8?Contentid=5000000005000030093&livemode=1&stbId=3&channel-id=bestzb
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://hls.ye23.vip/hls/cctv4hd.m3u8
 CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
@@ -548,8 +549,8 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 惠州综合,http://ye23.vip/z7z8/2021/0752.php?id=1
 珠海综合,http://120.196.218.201:808/hls/67/index.m3u8
 珠海公共,http://120.196.218.201:808/hls/66/index.m3u8
-梅州综合,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
-梅州二套,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
+梅州综合,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
+梅州二套,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420
