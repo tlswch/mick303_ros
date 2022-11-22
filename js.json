@@ -56,6 +56,7 @@
     
     {"key": "csp_XYQHiker_鸭奈飞影视","name": "鸭奈飞┃XYQH","type": 3, "api": "csp_XYQHiker","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "./XYQH/鸭奈飞影视.json"},
     {"key": "csp_XYQHiker_素白白影视", "name": "素白白┃XYQH","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/素白白影视.json" },
+	{"key": "csp_XYQHiker_真不卡影视","name": "️真不卡┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQH/真不卡.json"},
     {"key": "csp_XYQHiker_爱看影视","name": "爱看影视┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "./XYQH/爱看影视.json"},
     {"key": "csp_XYQHiker_追剧达人","name": "追剧达人┃XYQH", "type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/追剧达人.json"},
     {"key": "csp_XYQHiker_农民影视","name": "农民影视┃XYQH", "type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "./XYQH/农民影视.json"},
