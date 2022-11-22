@@ -62,6 +62,7 @@
     {"key": "csp_XYQHiker_农民影视","name": "农民影视┃XYQH", "type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "./XYQH/农民影视.json"},
     {"key": "csp_XYQHiker_乐猪影视","name": "乐猪影视┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/乐猪TV.json"},
     {"key": "csp_XYQHiker_厂长影视","name": "厂长影视┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/厂长影视.json"},
+    {"key": "csp_XYQHiker_柠檬TV","name": "柠檬TV┃XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/柠檬TV.json"},
 
     {"key": "csp_007","name":"🌅007┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/007.json"},
     {"key": "csp_mojie","name": "🦋魔戒┃XPF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/魔戒.json"},
