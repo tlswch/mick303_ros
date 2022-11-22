@@ -555,13 +555,15 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420
 揭阳公共,rtmp://rtmp-stjy.sobeylive.com/stjy2020/ggpd?sign=b9881a0d588081b1979769c128a5e08c&t=639de420
-湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
+湛江综合,http://lu1.cc/itv/sjtv/gd/zjtv.php?id=zjzh
 湛江综合,http://zjstyhls.tianma3600.com/zjsty/zhpd.m3u8
-湛江公共,http://zjstyhls.tianma3600.com/zjsty/ggpd.m3u8
+湛江公共,http://lu1.cc/itv/sjtv/gd/zjtv.php?id=zjgg
 清远综合,https://zqy-live.nanyuecloud.com/qingyuandianshi1/qingyuandianshistream1.m3u8?auth_key=601634549293-0-0-96c65af4438160da817d5e34b27b9b7a
 清远公共,https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
 清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
 清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
+肇庆综合,https://kfs-live.nanyuecloud.com/live/nwezhaoqing1.m3u8?txSecret=8bafc37137941d1fe45f31b2b33a8d18&txTime=63D8797F
+肇庆公共,https://kfs-live.nanyuecloud.com/live/nwezhaoqing2.m3u8?txSecret=67969fe564e37a413508527ce0205f72&txTime=63D8797F
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
