@@ -2,7 +2,7 @@
   "站名": "厂长资源",
   "主页url": "https://www.czspp.com",
   
-  "分类": "豆瓣电影Top250$dbtop250?btwaf=39377880#最新电影$zuixindianying?btwaf=62146110#高分影视$reyingzhong?btwaf=84398573#电视剧$dsj?btwaf=28976717#国产剧$gcj?btwaf=24127243#美剧$meijutt?btwaf=94041188#韩剧$hanjutv?btwaf=6036686#番剧$fanju?btwaf=74162879#动漫$dm?btwaf=5469988",
+  "分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#高分影视$reyingzhong#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju#动漫$dm",
   "分类url": "https://www.czspp.com/{cateId}/page/{catePg}",
   
   "数组": "<li>&&</li>",
