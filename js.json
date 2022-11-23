@@ -65,7 +65,6 @@
     {"key": "csp_vip影视","name":"❤️vip影视┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/vip影视.json"},
     {"key": "csp_Ckm","name": "🎀Cokemv┃XPF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./paper/COKEMV.json"},
     {"key": "csp_蓝光影院","name":"🔃蓝光影院┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/蓝光影院.json"},
-    {"key": "csp_xp在线之家","name":"🏠在线之家┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/在线之家.json"},
     {"key": "csp_万能影院","name":"🌟万能影院┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/万能影院.json"},
     {"key": "csp_xp钉子电影","name":"🛠钉子电影┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/钉子电影.json"},
     {"key": "csp_六度影视","name":"♨️六度影视┃XPF","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/六度.json"},
