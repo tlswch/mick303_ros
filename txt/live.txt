@@ -849,7 +849,8 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
-
+泰州综合,http://lu1.cc/c/tv/sjtv/p/migu.php?id=tzzh
+宿迁综合,http://lu1.cc/c/tv/sjtv/p/migu.php?id=sqzh
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡娱乐,http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8
@@ -867,7 +868,8 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 盐城综合,http://stream.0515yc.cn/yctv1/playlist.m3u8
 盐城公共,http://stream.0515yc.cn/yctv3/playlist.m3u8
 盐城法治,http://stream.0515yc.cn/yctv2/playlist.m3u8
-
+镇江综合,http://lu1.cc/c/tv/sjtv/p/migu.php?id=zjzh
+镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 盐都综合频道,http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8
 如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 江宁新闻频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
@@ -917,39 +919,42 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 
 
 🎀北京,#genre#
-北京卫视,http://222.175.159.226:808/hls/45/index.m3u8
+北京卫视,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjws
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-北京卫视,http://39.134.67.185/PLTV/88888888/224/3221225678/index.m3u8
-北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
-BRTV新闻,http://111.197.192.151:84/live/100029/index.m3u8
-BRTV青年,http://111.197.192.151:84/live/100028/index.m3u8
-BRTV文艺,http://111.197.192.151:84/live/100022/index.m3u8
-BRTV体育,http://111.197.192.151:84/live/100023/index.m3u8
-BRTV纪实,http://111.197.192.151:84/live/100024/index.m3u8
-BRTV影视,http://111.197.192.151:84/live/100025/index.m3u8
-BRTV财经,http://111.197.192.151:84/live/100026/index.m3u8
-BRTV淘剧场,http://111.197.192.151:84/live/100081/index.m3u8
-BRTV淘电影,http://111.197.192.151:84/live/100082/index.m3u8
-冬奥纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
-冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
-冬奥纪实,http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8
+北京文艺,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjwy
+北京纪实,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjjskj
+北京纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京纪实,http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8
+北京新闻,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjxw
+北京影视,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjys
+北京财经,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjcj
+北京体育,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjtyxx
+北京生活,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjsh
+北京青年,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjqn
+清华TV,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+卡酷少儿,http://lu1.cc/c/tv/sjtv/p/bjcd.php?id=bjkk
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+石景山, http://live.sjsrm.com/bjsjs/sd/live.m3u8
+平谷电视台,http://yfsl.vsd.gehua.net.cn/live/ipcdn/PingGuQuXianXinWen/ipcdn,PingGuQuXianXinWen_2000K_live.m3u8
+门头沟电视台,http://yfsl.vsd.gehua.net.cn/live/ipcdn/MenTouGouQuXianXinWen/ipcdn,MenTouGouQuXianXinWen_2000K_live.m3u8
+大兴电视台,http://v2.91kds.cn/b9/polyv.m3u8?id=bjdxtv1&auth=rinimabi
+每经AI,http://aitv.nbd.com.cn/live/aitv_live.m3u8
+环球旅游,http://yfsl.vsd.gehua.net.cn/live/HuanQiuLvYou_2000.m3u8
 房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
-顺义电视,http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
-清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+四海钓鱼,http://lu1.cc/c/tv/sjtv/p/migu.php?id=shdy
 
 🎀上海,#genre#
-东方卫视,http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8
-东方影院,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-上海新闻,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/2300000/mnf.m3u8
-上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+东方卫视,http://yfsl.vsd.gehua.net.cn/live/DongFangHD_1200.m3u8
+东方影院,http://lu1.cc/c/tv/sjtv/p/migu.php?id=dfys
+东方财经,http://lu1.cc/c/tv/sjtv/sh/ycxl.php?id=dfcj
+上海新闻,http://lu1.cc/c/tv/sjtv/p/migu.php?id=shxwzh
+上海都市,http://lu1.cc/c/tv/sjtv/p/migu.php?id=shds
+上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
 上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+纪实人文,http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=shjsrw
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 天水公共,http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
@@ -970,6 +975,17 @@ BRTV淘电影,http://111.197.192.151:84/live/100082/index.m3u8
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+
+🎀天津,#genre#
+天津卫视,http://yfsl.vsd.gehua.net.cn/live/TianJinHD_1200.m3u8
+天津卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+滨海生活,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+宝坻电视台,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
+宁河新闻,http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8
+西青新闻,http://221.238.209.44:81/hls/live1.m3u8
+武清电视台,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+津南电视台, http://play.jinnantv.top/live/JNTV1.m3u8
 
 🎀浙江,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -1031,7 +1047,6 @@ BRTV淘电影,http://111.197.192.151:84/live/100082/index.m3u8
 海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-
 
 🎀广西,#genre#
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
