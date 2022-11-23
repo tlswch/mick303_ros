@@ -9,7 +9,7 @@
     {"key": "演唱会","name": "🎸演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./paper/演唱会.json"},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/农民影视.json"},
     {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_AppTT","name":"🐰兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_AppTT","name":"🐰兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysgc","name":"🏭工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kunyu77","name":"🏳️‍🌈七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Lezhu_spider","name":"🐷乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
