@@ -20,7 +20,7 @@
     {"key":"csp_Fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Zxzj","name": "🍁在线","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Bd","name":"📯哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_CZSPP","name":"🚬厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qj.jar;md5;e3f1a10099611223738e86beb3e859c1"},,
+    {"key":"csp_CZSPP","name":"🚬厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qj.jar;md5;e3f1a10099611223738e86beb3e859c1"},
     {"key":"csp_Xxys","name":"🐻小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zjdr","name":"⛱️追剧","api":"csp_Zjdr","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Smdyy","name":"🦄神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
