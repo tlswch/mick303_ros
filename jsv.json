@@ -72,7 +72,6 @@
     {"key":"csp_xpath_xuangz","name":"🥀尘落电影┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/尘落电影.json"},
     {"key":"csp_xpath_蚂蚁影视","name":"🦋蚂蚁影视┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/蚂蚁影视.json"},
     {"key":"csp_xpath_电影迷","name":"📽️电影迷┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/电影迷.json"},
-    {"key":"csp_xpath_555dy","name":"5️⃣555影视┃XPF","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./paper/555电影.json"},
     {"key":"csp_xpath_94sm","name":"🐴94神马┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/94神马.json"},
     {"key":"csp_xpath_135kan","name":"🕵135看看┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/135看.json"},
     {"key":"csp_xpath_xfeiji","name":"🏜小小影视┃XPF","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./paper/小小影视.json"},
