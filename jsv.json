@@ -11,7 +11,7 @@
     {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"AppTT","name":"🐰图图","type": 3, "api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext": "110c922de7d69804467fb83d3bb664b5"},
     {"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-    {"key":"IKan","name":"❤️爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
+    {"key":"IKan","name":"👒爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
     {"key":"csp_Ysgc","name":"🏭工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kunyu77","name":"🏳️‍🌈七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Lezhu_spider","name":"🐷乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
