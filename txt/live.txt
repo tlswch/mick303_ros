@@ -109,7 +109,6 @@ CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV15,http://60.10.167.88:808/hls/15/index.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 
-CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 CCTV16,http://39.135.6.138:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
@@ -456,6 +455,9 @@ TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
 TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8
+有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
@@ -498,6 +500,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 东森超视,rtmp://59.124.75.150/sat/tv331
 东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
 东森电影,http://120.84.96.55:808/hls/32/index.m3u8
+东森财经,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 龙华戏剧,http://123.51.149.52:18607/1.m3u8
 龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
 私人影院,http://jyjxy.7766.org:808/hls/57/index.m3u8
@@ -506,9 +509,12 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民视,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 
 👶少儿频道,#genre#
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
