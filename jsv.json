@@ -4,7 +4,7 @@
     "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
 
     "sites": [
-    {"key": "js_db","name": "🔥豆瓣热搜","type":3,"api":"./libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/db.js"},
+    {"key":"dr_豆瓣","name":"🔥豆瓣热搜","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
     {"key": "csp_BBB","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./paper/BILI.json"},
     {"key": "演唱会","name": "🎸演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./paper/演唱会.json"},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/农民影视.json"},
