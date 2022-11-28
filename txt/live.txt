@@ -356,7 +356,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.flv?bitrate=512000&channel=Shan1XiTV
 山西卫视,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8
-山西卫视http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
+山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 山西卫视,http://60.10.167.88:808/hls/38/index.m3u8
 
