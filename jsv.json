@@ -1,17 +1,15 @@
 ﻿    {
-    "spider":"./jar/top.jar;md5;9c76190dc4dc6b2977de6a8f4bc4741c",  
+    "spider":"./jar/top.jar;md5;a3b9444ce3bf73b653afdccff5d51d5c",  
     "wallpaper": "https://epg.112114.xyz/bingimg","lives": [{"group": "redirect","channels": [{"name": 
     "live","urls": ["proxy://do=live&type=txt&ext=./txt/live.txt"]}]}],
 
     "sites": [
-    {"key":"dr_豆瓣","name":"🔥豆瓣热搜","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
+    {"key": "js_db","name": "🔥豆瓣热搜","type":3,"api":"./libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./js/db.js"},
     {"key": "csp_BBB","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./paper/BILI.json"},
     {"key": "演唱会","name": "🎸演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./paper/演唱会.json"},
     {"key": "csp_Nmys","name": "🌾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./paper/农民影视.json"},
     {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"AppTT","name":"🐰图图","type": 3, "api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext": "110c922de7d69804467fb83d3bb664b5"},
-    {"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-    {"key":"IKan","name":"👒爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","jar":"./jar/ts.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
+    {"key":"AppTT","name":"🐰图图","type": 3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
     {"key":"csp_Ysgc","name":"🏭工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kunyu77","name":"🏳️‍🌈七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Lezhu_spider","name":"🐷乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
